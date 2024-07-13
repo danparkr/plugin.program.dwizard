@@ -1,5 +1,5 @@
 # plugin.program.openwizard
-OpenWizard
+D-Wizard
 
 # THIS PROJECT IS NO LONGER IN DEVELOPMENT.
 
