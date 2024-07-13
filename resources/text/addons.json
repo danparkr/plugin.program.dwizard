@@ -1,0 +1,17 @@
+{
+    "addons": [
+      {
+        "name": "DMP - Fenlight",
+        "type": "addon",
+        "section": false,
+        "plugin": "plugin.video.fenlight",
+        "url": "https://github.com/danparkr/dmp-test/blob/master/omega/zips/plugin.video.fenlight/plugin.video.fenlight-1.0.57.zip",
+        "repository": "",
+        "repositoryxml": "",
+        "repositoryurl": "",
+        "icon": "",
+        "adult": false,
+        "description": "The official YouTube add-on."
+      }
+    ]
+  }
